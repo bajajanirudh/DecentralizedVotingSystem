@@ -33,6 +33,14 @@ An Online Voting System is developed based on blockchain architecture.
 * Every admin is assigned a unique Election Commission ID for authentication.
 * Result analysis of election is carried out in this section.
 
+## Demo of the Website:
+
+https://user-images.githubusercontent.com/91120579/177051231-b6fb0090-f05b-452e-b106-41d5b59888c0.mp4
+
+## Demo of the admin Portal:
+
+https://user-images.githubusercontent.com/91120579/177051244-658d70d0-0c66-4598-8fa7-194e78bb062e.mp4
+
 ## Steps to run the application:
 1. Clone this repository.
 2. Change this to working directory.
